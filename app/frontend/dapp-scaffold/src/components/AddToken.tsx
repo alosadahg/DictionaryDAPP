@@ -82,6 +82,7 @@ export const AddToken: FC = () => {
                                 type="text"
                                 className="w-full border border-gray-300 rounded-md p-2 text-black"
                                 value={keyword}
+                                placeholder='Token'
                                 onChange={(e) => setKeyword(e.target.value)}
                             />
                         </div>
@@ -91,6 +92,7 @@ export const AddToken: FC = () => {
                                 type="text"
                                 className="w-full border border-gray-300 rounded-md p-2 text-black"
                                 value={type}
+                                placeholder='Token type (ex: keyword, class)'
                                 onChange={(e) => setType(e.target.value)}
                             />
                         </div>
@@ -100,6 +102,7 @@ export const AddToken: FC = () => {
                                 type="text"
                                 className="w-full border border-gray-300 rounded-md p-2 text-black"
                                 value={uses}
+                                placeholder='Used in (ex: programming languages)'
                                 onChange={(e) => setUses(e.target.value)}
                             />
                         </div>
@@ -108,6 +111,7 @@ export const AddToken: FC = () => {
                             <textarea
                                 className="w-full border border-gray-300 rounded-md p-2 text-black"
                                 value={description}
+                                placeholder='Description details'
                                 onChange={(e) => setDescription(e.target.value)}
                             ></textarea>
                         </div>
@@ -130,7 +134,7 @@ export const AddToken: FC = () => {
                     </button>
                     {entries.map((entry) => {
                         return (
-                            <div className="p-4 bg-gradient-to-r from-indigo-500 to-fuchsia-500 text-white rounded-md mb-4 text-left">
+                            <div key={entry.pubkey.toString()} className="p-4 bg-gradient-to-r from-indigo-500 to-fuchsia-500 text-white rounded-md mb-4 text-left">
                                 <div className="mb-2">
                                     <strong>Token:</strong> {entry.keyword.toString()}
                                 </div>
