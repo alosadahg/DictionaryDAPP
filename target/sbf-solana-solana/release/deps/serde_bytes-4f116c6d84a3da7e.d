@@ -1,0 +1,11 @@
+/home/hernah/projects/dapp/dictionary/target/sbf-solana-solana/release/deps/serde_bytes-4f116c6d84a3da7e.rmeta: /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/lib.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytes.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/de.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/ser.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytebuf.rs
+
+/home/hernah/projects/dapp/dictionary/target/sbf-solana-solana/release/deps/libserde_bytes-4f116c6d84a3da7e.rlib: /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/lib.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytes.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/de.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/ser.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytebuf.rs
+
+/home/hernah/projects/dapp/dictionary/target/sbf-solana-solana/release/deps/serde_bytes-4f116c6d84a3da7e.d: /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/lib.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytes.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/de.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/ser.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytebuf.rs
+
+/home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/lib.rs:
+/home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytes.rs:
+/home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/de.rs:
+/home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/ser.rs:
+/home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytebuf.rs:

@@ -1,0 +1,13 @@
+/home/hernah/projects/dapp/dictionary/target/release/deps/quote-2131b7f0f9ada279.rmeta: /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/lib.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ext.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/format.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ident_fragment.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/to_tokens.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/runtime.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/spanned.rs
+
+/home/hernah/projects/dapp/dictionary/target/release/deps/libquote-2131b7f0f9ada279.rlib: /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/lib.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ext.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/format.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ident_fragment.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/to_tokens.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/runtime.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/spanned.rs
+
+/home/hernah/projects/dapp/dictionary/target/release/deps/quote-2131b7f0f9ada279.d: /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/lib.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ext.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/format.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ident_fragment.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/to_tokens.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/runtime.rs /home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/spanned.rs
+
+/home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/lib.rs:
+/home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ext.rs:
+/home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/format.rs:
+/home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ident_fragment.rs:
+/home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/to_tokens.rs:
+/home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/runtime.rs:
+/home/hernah/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/spanned.rs:
